@@ -1,0 +1,8 @@
+{
+	"settings": {
+		"shoutcast_url": "",
+		"shoutcast_stream": 1,
+		"last_fm_api_key": "",
+		"last_fm_api_secret": ""
+	}
+}
